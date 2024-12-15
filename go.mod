@@ -8,11 +8,11 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/ilyakaznacheev/cleanenv v1.5.0
 	github.com/jaswdr/faker v1.19.1
-	github.com/jaswdr/faker/v2 v2.3.2
+	github.com/jaswdr/faker/v2 v2.3.3
 	github.com/lib/pq v1.10.9
 	github.com/oapi-codegen/runtime v1.1.1
 	go.uber.org/automaxprocs v1.6.0
-	golang.org/x/crypto v0.28.0
+	golang.org/x/crypto v0.31.0
 )
 
 require (
